@@ -1,0 +1,9 @@
+﻿1>------ Build started: Project: Hash, Configuration: Debug Win32 ------
+1>  login.cpp
+1>c:\users\softinstall\downloads\hash\hash\login.cpp(42): warning C4101: 'userFound': unreferenced local variable
+1>  listlnk.cpp
+1>  hashtbl.cpp
+1>  Generating Code...
+1>  Hash.vcxproj -> C:\Users\softinstall\Downloads\Hash\Hash\Debug\Hash.exe
+1>  Hash.vcxproj -> C:\Users\softinstall\Downloads\Hash\Hash\Debug\Hash.pdb (Full PDB)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
